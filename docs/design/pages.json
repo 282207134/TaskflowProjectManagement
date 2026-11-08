@@ -1,0 +1,478 @@
+[
+  {
+    "id": "138:17926",
+    "name": "Side Menu",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1324,
+      "y": 8263,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 4,
+    "slug": "01-side-menu"
+  },
+  {
+    "id": "139:497",
+    "name": "Log Out",
+    "type": "FRAME",
+    "bounds": {
+      "x": -826,
+      "y": 8263,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 6,
+    "slug": "02-log-out"
+  },
+  {
+    "id": "138:17781",
+    "name": "Profile",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1324,
+      "y": 6871,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 4,
+    "slug": "03-profile"
+  },
+  {
+    "id": "138:17880",
+    "name": "Edit Profile",
+    "type": "FRAME",
+    "bounds": {
+      "x": -816,
+      "y": 6871,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 6,
+    "slug": "04-edit-profile"
+  },
+  {
+    "id": "138:18907",
+    "name": "Project Summary",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1324,
+      "y": 5479,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 6,
+    "slug": "05-project-summary"
+  },
+  {
+    "id": "138:19077",
+    "name": "Monthly Review",
+    "type": "FRAME",
+    "bounds": {
+      "x": -816,
+      "y": 5479,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 4,
+    "slug": "06-monthly-review"
+  },
+  {
+    "id": "138:17551",
+    "name": "Message",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1324,
+      "y": 4087,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 5,
+    "slug": "07-message"
+  },
+  {
+    "id": "138:17689",
+    "name": "Caht",
+    "type": "FRAME",
+    "bounds": {
+      "x": -826,
+      "y": 4087,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 7,
+    "slug": "08-caht"
+  },
+  {
+    "id": "138:18813",
+    "name": "Video call",
+    "type": "FRAME",
+    "bounds": {
+      "x": -328,
+      "y": 4087,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 5,
+    "slug": "09-video-call"
+  },
+  {
+    "id": "138:16537",
+    "name": "Task Details",
+    "type": "FRAME",
+    "bounds": {
+      "x": -328,
+      "y": 2695,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 7,
+    "slug": "10-task-details"
+  },
+  {
+    "id": "139:47",
+    "name": "Date selector",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1166,
+      "y": 2695,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 10,
+    "slug": "11-date-selector"
+  },
+  {
+    "id": "139:258",
+    "name": "Time selector",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1664,
+      "y": 2695,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 10,
+    "slug": "12-time-selector"
+  },
+  {
+    "id": "138:16636",
+    "name": "Task Board",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1324,
+      "y": 2695,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 3,
+    "slug": "13-task-board"
+  },
+  {
+    "id": "138:16951",
+    "name": "Add New Task",
+    "type": "FRAME",
+    "bounds": {
+      "x": 668,
+      "y": 2695,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 8,
+    "slug": "14-add-new-task"
+  },
+  {
+    "id": "138:17362",
+    "name": "Assigne To",
+    "type": "FRAME",
+    "bounds": {
+      "x": 170,
+      "y": 2695,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 3,
+    "slug": "15-assigne-to"
+  },
+  {
+    "id": "138:19211",
+    "name": "Task List",
+    "type": "FRAME",
+    "bounds": {
+      "x": -826,
+      "y": 2695,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 3,
+    "slug": "16-task-list"
+  },
+  {
+    "id": "138:16824",
+    "name": "Projects",
+    "type": "FRAME",
+    "bounds": {
+      "x": -826,
+      "y": 1303,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 6,
+    "slug": "17-projects"
+  },
+  {
+    "id": "138:17442",
+    "name": "Create New Project",
+    "type": "FRAME",
+    "bounds": {
+      "x": -328,
+      "y": 1303,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 6,
+    "slug": "18-create-new-project"
+  },
+  {
+    "id": "138:18620",
+    "name": "Projects",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1324,
+      "y": 1303,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 4,
+    "slug": "19-projects"
+  },
+  {
+    "id": "138:16394",
+    "name": "Home",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1324,
+      "y": -89,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 6,
+    "slug": "20-home"
+  },
+  {
+    "id": "138:18375",
+    "name": "Notifications",
+    "type": "FRAME",
+    "bounds": {
+      "x": -826,
+      "y": -89,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 7,
+    "slug": "21-notifications"
+  },
+  {
+    "id": "138:18130",
+    "name": "Verification Code",
+    "type": "FRAME",
+    "bounds": {
+      "x": -816,
+      "y": -1481,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 4,
+    "slug": "22-verification-code"
+  },
+  {
+    "id": "138:18166",
+    "name": "Verification Code",
+    "type": "FRAME",
+    "bounds": {
+      "x": -308,
+      "y": -1481,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 4,
+    "slug": "23-verification-code"
+  },
+  {
+    "id": "138:18206",
+    "name": "Forgot Password",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1324,
+      "y": -1481,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 4,
+    "slug": "24-forgot-password"
+  },
+  {
+    "id": "138:18315",
+    "name": "Sign Up",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1324,
+      "y": -2873,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 6,
+    "slug": "25-sign-up"
+  },
+  {
+    "id": "138:18461",
+    "name": "Sign Up",
+    "type": "FRAME",
+    "bounds": {
+      "x": -816,
+      "y": -2873,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 6,
+    "slug": "26-sign-up"
+  },
+  {
+    "id": "138:18522",
+    "name": "Language",
+    "type": "FRAME",
+    "bounds": {
+      "x": 200,
+      "y": -2873,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 4,
+    "slug": "27-language"
+  },
+  {
+    "id": "138:19351",
+    "name": "Face Id Details",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1216,
+      "y": -2873,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 4,
+    "slug": "28-face-id-details"
+  },
+  {
+    "id": "138:19381",
+    "name": "Check Email",
+    "type": "FRAME",
+    "bounds": {
+      "x": -308,
+      "y": -2873,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 5,
+    "slug": "29-check-email"
+  },
+  {
+    "id": "138:19414",
+    "name": "Phone Number",
+    "type": "FRAME",
+    "bounds": {
+      "x": 708,
+      "y": -2873,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 4,
+    "slug": "30-phone-number"
+  },
+  {
+    "id": "138:18074",
+    "name": "Login - 1",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1324,
+      "y": -4265,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 7,
+    "slug": "31-login-1"
+  },
+  {
+    "id": "138:18237",
+    "name": "Login - 2",
+    "type": "FRAME",
+    "bounds": {
+      "x": -826,
+      "y": -4265,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 7,
+    "slug": "32-login-2"
+  },
+  {
+    "id": "138:18293",
+    "name": "Splash",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1324,
+      "y": -5657,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 1,
+    "slug": "33-splash"
+  },
+  {
+    "id": "205:1387",
+    "name": "Onboard-1",
+    "type": "FRAME",
+    "bounds": {
+      "x": -826,
+      "y": -5657,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "0:1",
+    "childCount": 8,
+    "slug": "34-onboard-1"
+  }
+]

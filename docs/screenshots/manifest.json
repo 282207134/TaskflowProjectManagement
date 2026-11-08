@@ -1,0 +1,482 @@
+[
+  {
+    "file": "docs/screenshots/light/analytics.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 103306
+  },
+  {
+    "file": "docs/screenshots/light/assignees.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 126628
+  },
+  {
+    "file": "docs/screenshots/light/calendar.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 134548
+  },
+  {
+    "file": "docs/screenshots/light/chat.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 186991
+  },
+  {
+    "file": "docs/screenshots/light/check-email.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 62089
+  },
+  {
+    "file": "docs/screenshots/light/date.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 108674
+  },
+  {
+    "file": "docs/screenshots/light/forgot.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 74867
+  },
+  {
+    "file": "docs/screenshots/light/help.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 144609
+  },
+  {
+    "file": "docs/screenshots/light/home.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 142693
+  },
+  {
+    "file": "docs/screenshots/light/language.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 73311
+  },
+  {
+    "file": "docs/screenshots/light/login-filled.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 96610
+  },
+  {
+    "file": "docs/screenshots/light/login.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 93727
+  },
+  {
+    "file": "docs/screenshots/light/logout.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 95887
+  },
+  {
+    "file": "docs/screenshots/light/menu.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 97030
+  },
+  {
+    "file": "docs/screenshots/light/messages.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 266378
+  },
+  {
+    "file": "docs/screenshots/light/monthly.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 122645
+  },
+  {
+    "file": "docs/screenshots/light/notifications.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 187525
+  },
+  {
+    "file": "docs/screenshots/light/onboarding-2.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 224788
+  },
+  {
+    "file": "docs/screenshots/light/onboarding.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 197902
+  },
+  {
+    "file": "docs/screenshots/light/permissions.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 91750
+  },
+  {
+    "file": "docs/screenshots/light/phone.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 46328
+  },
+  {
+    "file": "docs/screenshots/light/privacy.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 126746
+  },
+  {
+    "file": "docs/screenshots/light/profile-edit.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 116094
+  },
+  {
+    "file": "docs/screenshots/light/profile.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 127850
+  },
+  {
+    "file": "docs/screenshots/light/project-new.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 89034
+  },
+  {
+    "file": "docs/screenshots/light/projects.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 130115
+  },
+  {
+    "file": "docs/screenshots/light/settings.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 99672
+  },
+  {
+    "file": "docs/screenshots/light/signup-filled.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 94937
+  },
+  {
+    "file": "docs/screenshots/light/signup.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 89758
+  },
+  {
+    "file": "docs/screenshots/light/splash.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 16209
+  },
+  {
+    "file": "docs/screenshots/light/task-board.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 130146
+  },
+  {
+    "file": "docs/screenshots/light/task-details.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 144186
+  },
+  {
+    "file": "docs/screenshots/light/task-edit.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 138377
+  },
+  {
+    "file": "docs/screenshots/light/task-list.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 162288
+  },
+  {
+    "file": "docs/screenshots/light/task-new.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 144311
+  },
+  {
+    "file": "docs/screenshots/light/time.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 124390
+  },
+  {
+    "file": "docs/screenshots/light/verification-filled.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 86713
+  },
+  {
+    "file": "docs/screenshots/light/verification.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 82184
+  },
+  {
+    "file": "docs/screenshots/light/video.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 885084
+  },
+  {
+    "file": "docs/screenshots/light/widgets.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 100544
+  },
+  {
+    "file": "docs/screenshots/dark/analytics.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 107033
+  },
+  {
+    "file": "docs/screenshots/dark/assignees.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 133061
+  },
+  {
+    "file": "docs/screenshots/dark/calendar.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 141833
+  },
+  {
+    "file": "docs/screenshots/dark/chat.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 192315
+  },
+  {
+    "file": "docs/screenshots/dark/check-email.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 68067
+  },
+  {
+    "file": "docs/screenshots/dark/date.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 112181
+  },
+  {
+    "file": "docs/screenshots/dark/forgot.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 79826
+  },
+  {
+    "file": "docs/screenshots/dark/help.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 151084
+  },
+  {
+    "file": "docs/screenshots/dark/home.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 149432
+  },
+  {
+    "file": "docs/screenshots/dark/language.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 76027
+  },
+  {
+    "file": "docs/screenshots/dark/login-filled.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 105458
+  },
+  {
+    "file": "docs/screenshots/dark/login.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 102578
+  },
+  {
+    "file": "docs/screenshots/dark/logout.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 98602
+  },
+  {
+    "file": "docs/screenshots/dark/menu.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 99938
+  },
+  {
+    "file": "docs/screenshots/dark/messages.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 277109
+  },
+  {
+    "file": "docs/screenshots/dark/monthly.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 126221
+  },
+  {
+    "file": "docs/screenshots/dark/notifications.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 195020
+  },
+  {
+    "file": "docs/screenshots/dark/onboarding-2.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 227270
+  },
+  {
+    "file": "docs/screenshots/dark/onboarding.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 202147
+  },
+  {
+    "file": "docs/screenshots/dark/permissions.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 94152
+  },
+  {
+    "file": "docs/screenshots/dark/phone.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 48129
+  },
+  {
+    "file": "docs/screenshots/dark/privacy.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 131954
+  },
+  {
+    "file": "docs/screenshots/dark/profile-edit.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 121414
+  },
+  {
+    "file": "docs/screenshots/dark/profile.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 135746
+  },
+  {
+    "file": "docs/screenshots/dark/project-new.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 94269
+  },
+  {
+    "file": "docs/screenshots/dark/projects.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 136929
+  },
+  {
+    "file": "docs/screenshots/dark/settings.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 101701
+  },
+  {
+    "file": "docs/screenshots/dark/signup-filled.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 104892
+  },
+  {
+    "file": "docs/screenshots/dark/signup.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 99595
+  },
+  {
+    "file": "docs/screenshots/dark/splash.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 16209
+  },
+  {
+    "file": "docs/screenshots/dark/task-board.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 136783
+  },
+  {
+    "file": "docs/screenshots/dark/task-details.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 149638
+  },
+  {
+    "file": "docs/screenshots/dark/task-edit.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 144541
+  },
+  {
+    "file": "docs/screenshots/dark/task-list.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 171277
+  },
+  {
+    "file": "docs/screenshots/dark/task-new.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 150352
+  },
+  {
+    "file": "docs/screenshots/dark/time.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 128399
+  },
+  {
+    "file": "docs/screenshots/dark/verification-filled.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 95465
+  },
+  {
+    "file": "docs/screenshots/dark/verification.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 91388
+  },
+  {
+    "file": "docs/screenshots/dark/video.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 888614
+  },
+  {
+    "file": "docs/screenshots/dark/widgets.png",
+    "width": 856,
+    "height": 1852,
+    "bytes": 104235
+  }
+]
